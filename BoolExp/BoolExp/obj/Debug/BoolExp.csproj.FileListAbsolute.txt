@@ -1,0 +1,2 @@
+C:\Users\Tek\Documents\C#Programs\BoolExp\BoolExp\obj\Debug\BoolExp.csprojAssemblyReference.cache
+C:\Users\Tek\Documents\C#Programs\BoolExp\BoolExp\obj\Debug\BoolExp.csproj.CoreCompileInputs.cache
