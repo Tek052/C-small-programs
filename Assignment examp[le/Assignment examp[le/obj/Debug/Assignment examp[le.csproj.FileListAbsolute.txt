@@ -1,0 +1,7 @@
+C:\Users\Tek\Documents\C#Programs\Assignment examp[le\Assignment examp[le\bin\Debug\Assignment examp[le.exe.config
+C:\Users\Tek\Documents\C#Programs\Assignment examp[le\Assignment examp[le\bin\Debug\Assignment examp[le.exe
+C:\Users\Tek\Documents\C#Programs\Assignment examp[le\Assignment examp[le\bin\Debug\Assignment examp[le.pdb
+C:\Users\Tek\Documents\C#Programs\Assignment examp[le\Assignment examp[le\obj\Debug\Assignment examp[le.csprojAssemblyReference.cache
+C:\Users\Tek\Documents\C#Programs\Assignment examp[le\Assignment examp[le\obj\Debug\Assignment examp[le.csproj.CoreCompileInputs.cache
+C:\Users\Tek\Documents\C#Programs\Assignment examp[le\Assignment examp[le\obj\Debug\Assignment examp[le.exe
+C:\Users\Tek\Documents\C#Programs\Assignment examp[le\Assignment examp[le\obj\Debug\Assignment examp[le.pdb
