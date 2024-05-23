@@ -1,0 +1,7 @@
+C:\Users\Tek\Documents\C#Programs\AverageMarks\AverageMarks\bin\Debug\AverageMarks.exe.config
+C:\Users\Tek\Documents\C#Programs\AverageMarks\AverageMarks\bin\Debug\AverageMarks.exe
+C:\Users\Tek\Documents\C#Programs\AverageMarks\AverageMarks\bin\Debug\AverageMarks.pdb
+C:\Users\Tek\Documents\C#Programs\AverageMarks\AverageMarks\obj\Debug\AverageMarks.csprojAssemblyReference.cache
+C:\Users\Tek\Documents\C#Programs\AverageMarks\AverageMarks\obj\Debug\AverageMarks.csproj.CoreCompileInputs.cache
+C:\Users\Tek\Documents\C#Programs\AverageMarks\AverageMarks\obj\Debug\AverageMarks.exe
+C:\Users\Tek\Documents\C#Programs\AverageMarks\AverageMarks\obj\Debug\AverageMarks.pdb
