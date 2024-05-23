@@ -1,0 +1,7 @@
+C:\Users\Tek\Documents\C#Programs\ElizaIsSilly\ElizaIsSilly\bin\Debug\ElizaIsSilly.exe.config
+C:\Users\Tek\Documents\C#Programs\ElizaIsSilly\ElizaIsSilly\bin\Debug\ElizaIsSilly.exe
+C:\Users\Tek\Documents\C#Programs\ElizaIsSilly\ElizaIsSilly\bin\Debug\ElizaIsSilly.pdb
+C:\Users\Tek\Documents\C#Programs\ElizaIsSilly\ElizaIsSilly\obj\Debug\ElizaIsSilly.csprojAssemblyReference.cache
+C:\Users\Tek\Documents\C#Programs\ElizaIsSilly\ElizaIsSilly\obj\Debug\ElizaIsSilly.csproj.CoreCompileInputs.cache
+C:\Users\Tek\Documents\C#Programs\ElizaIsSilly\ElizaIsSilly\obj\Debug\ElizaIsSilly.exe
+C:\Users\Tek\Documents\C#Programs\ElizaIsSilly\ElizaIsSilly\obj\Debug\ElizaIsSilly.pdb

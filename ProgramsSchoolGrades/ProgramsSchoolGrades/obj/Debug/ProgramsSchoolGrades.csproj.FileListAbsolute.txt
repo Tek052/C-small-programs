@@ -1,0 +1,7 @@
+C:\Users\Tek\Documents\C#Programs\ProgramsSchoolGrades\ProgramsSchoolGrades\bin\Debug\ProgramsSchoolGrades.exe.config
+C:\Users\Tek\Documents\C#Programs\ProgramsSchoolGrades\ProgramsSchoolGrades\bin\Debug\ProgramsSchoolGrades.exe
+C:\Users\Tek\Documents\C#Programs\ProgramsSchoolGrades\ProgramsSchoolGrades\bin\Debug\ProgramsSchoolGrades.pdb
+C:\Users\Tek\Documents\C#Programs\ProgramsSchoolGrades\ProgramsSchoolGrades\obj\Debug\ProgramsSchoolGrades.csproj.CoreCompileInputs.cache
+C:\Users\Tek\Documents\C#Programs\ProgramsSchoolGrades\ProgramsSchoolGrades\obj\Debug\ProgramsSchoolGrades.exe
+C:\Users\Tek\Documents\C#Programs\ProgramsSchoolGrades\ProgramsSchoolGrades\obj\Debug\ProgramsSchoolGrades.pdb
+C:\Users\Tek\Documents\C#Programs\ProgramsSchoolGrades\ProgramsSchoolGrades\obj\Debug\ProgramsSchoolGrades.csprojAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\Tek\Documents\C#Programs\eredity\eredity\obj\Debug\eredity.csprojAssemblyReference.cache
+C:\Users\Tek\Documents\C#Programs\eredity\eredity\obj\Debug\eredity.csproj.CoreCompileInputs.cache
